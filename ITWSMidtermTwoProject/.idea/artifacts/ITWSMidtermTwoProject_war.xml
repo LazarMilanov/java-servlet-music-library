@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ITWSMidtermTwoProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ITWSMidtermTwoProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ITWSMidtermProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ITWSMidtermTwoProject:war exploded" />
+    </root>
+  </artifact>
+</component>
